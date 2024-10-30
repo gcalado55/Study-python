@@ -1,0 +1,38 @@
+[
+    {
+        "nome": "Gabriel",
+        "cnpj": "1234",
+        "telefone": "5678",
+        "produtos": [
+            "arroz",
+            "feijao"
+        ]
+    },
+    {
+        "nome": "Gabriel",
+        "cnpj": "1234",
+        "telefone": "5678",
+        "produtos": [
+            "arroz",
+            "feijao"
+        ]
+    },
+    {
+        "nome": "Gabriel",
+        "cnpj": "1234",
+        "telefone": "5678",
+        "produtos": [
+            "arroz",
+            "feijao"
+        ]
+    },
+    {
+        "nome": "Gabriel",
+        "cnpj": "1234",
+        "telefone": "5678",
+        "produtos": [
+            "arroz",
+            "feijao"
+        ]
+    }
+]
