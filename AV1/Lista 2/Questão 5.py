@@ -7,7 +7,7 @@ class ConversorMoedas:
             'JPY': 110.0,
         }
 
-    def converter(self, valor, moeda_de, moeda_para):
+    def converterMoeda(self, valor, moeda_de, moeda_para):
         if moeda_de not in self.taxas or moeda_para not in self.taxas:
             return None
         
@@ -32,7 +32,7 @@ def main():
             moeda_para = input("Digite a moeda de destino (ex: EUR): ").upper()
             valor = float(input("Digite o valor a ser convertido: "))
             
-            resultado = conversor.converter(valor, moeda_de, moeda_para)
+            resultado = conversor.converterMoeda(valor, moeda_de, moeda_para)
             
             if resultado is not None:
                 print(f"{valor} {moeda_de} é igual a {resultado} {moeda_para}")
