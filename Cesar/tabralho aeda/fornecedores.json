@@ -1,38 +1,33 @@
 [
     {
         "nome": "Gabriel",
-        "cnpj": "1234",
-        "telefone": "5678",
+        "cnpj": "3333",
+        "telefone": "4444",
         "produtos": [
-            "arroz",
-            "feijao"
+            "macarr\u00e3o",
+            "feij\u00e3o",
+            "macarr\u00e3o"
         ]
     },
     {
-        "nome": "Gabriel",
-        "cnpj": "1234",
-        "telefone": "5678",
+        "nome": "Pedro",
+        "cnpj": "9999",
+        "telefone": "1010",
+        "desconto": "20%",
         "produtos": [
-            "arroz",
-            "feijao"
+            "pao",
+            "macarrao",
+            "peixe"
         ]
     },
     {
-        "nome": "Gabriel",
-        "cnpj": "1234",
-        "telefone": "5678",
+        "nome": "Gabriel2",
+        "cnpj": "4444",
+        "telefone": "5555",
+        "desconto": "50%",
         "produtos": [
-            "arroz",
-            "feijao"
-        ]
-    },
-    {
-        "nome": "Gabriel",
-        "cnpj": "1234",
-        "telefone": "5678",
-        "produtos": [
-            "arroz",
-            "feijao"
+            "a",
+            "b"
         ]
     }
 ]
